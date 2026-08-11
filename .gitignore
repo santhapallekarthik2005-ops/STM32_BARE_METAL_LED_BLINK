@@ -1,0 +1,21 @@
+# Object files
+*.o
+
+# Firmware/build output
+*.elf
+*.bin
+*.hex
+*.out
+
+# Linker output
+*.map
+
+# Build directories
+build/
+Build/
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+*.log
